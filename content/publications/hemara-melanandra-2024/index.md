@@ -37,10 +37,6 @@ tags:
 - Type III effectors
 - Effector recognition
 - Kiwifruit
-links:
-links:
-- name: pdf
-  url: ""
 image:
   caption: ''
   focal_point: 'Smart'

@@ -40,9 +40,7 @@ tags:
 - 'Type III effectors'
 - 'Effector requirements'
 - 'Kiwifruit'
-links:
-- name: pdf
-  url: ""
+
 image:
   caption: ''
   focal_point: 'Smart'

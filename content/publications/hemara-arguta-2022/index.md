@@ -53,8 +53,6 @@ tags:
 - Effector recognition
 - Kiwifruit
 links:
-  - type: pdf
-    url: ""
   - type: poster
     url: https://hemara.nz/project/is-mpmi-2021/is-mpmi-2021.pdf
 
@@ -62,7 +60,6 @@ image:
   caption: 'Angular lesions on *Actinidia arguta* leaves.'
   focal_point: ''
   preview_only: false
-
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

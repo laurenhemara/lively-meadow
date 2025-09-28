@@ -29,9 +29,7 @@ tags:
 - Type III effectors
 - Pseudomonas syringae pv. actinidiae
 - Kiwifruit
-links:
-- name: pdf
-  url: ""
+
 featured: true
 image:
   caption: ''
