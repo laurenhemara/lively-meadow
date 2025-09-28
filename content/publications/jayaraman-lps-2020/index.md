@@ -17,7 +17,6 @@ publishDate: '2024-04-17T04:12:55.793852Z'
 publication_types:
 - article-journal
 publication: '*Environmental Microbiology*'
-doi: 10.1111/1462-2920.15250
 hugoblox:
   ids:
     doi: 10.1111/1462-2920.15250

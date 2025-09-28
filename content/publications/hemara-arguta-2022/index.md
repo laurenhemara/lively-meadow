@@ -24,7 +24,6 @@ date: '2022-05-01'
 publishDate: '2024-04-17T04:12:55.782702Z'
 publication_types: ["article-journal"]
 publication: '*PLoS Pathogens*'
-doi: 10.1371/journal.ppat.1010542
 hugoblox:
   ids:
     doi: 10.1371/journal.ppat.1010542

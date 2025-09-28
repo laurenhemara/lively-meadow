@@ -17,7 +17,6 @@ publishDate: '2024-06-04T04:12:55.793852Z'
 publication_types:
 - article-journal
 publication: '*Plant, Cell & Environment*'
-doi: 10.1111/pce.15002
 hugoblox:
   ids:
     doi: 10.1111/pce.15002

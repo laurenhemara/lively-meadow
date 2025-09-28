@@ -9,7 +9,6 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2025-02-03'
-doi: 10.1101/2025.01.31.635981
 publishDate: '2025-02-03T04:12:55.793852Z'
 publication_types: ["article"]
 publication: '*bioRxiv*'

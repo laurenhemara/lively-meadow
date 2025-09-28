@@ -15,7 +15,6 @@ authors:
   - 'Matthew Templeton'
 
 date: '2025-02-06'
-doi: 10.1111/mpp.70056
 hugoblox:
   ids:
     doi: 10.1111/mpp.70056

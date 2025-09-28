@@ -16,7 +16,6 @@ publishDate: '2024-04-17T04:12:55.801634Z'
 publication_types:
 - article-journal
 publication: '*New Phytologist*'
-doi: 10.1111/nph.18848
 hugoblox:
   ids:
     doi: 10.1111/nph.18848
