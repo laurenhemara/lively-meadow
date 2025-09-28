@@ -31,7 +31,7 @@ sections:
         shape: circle # Options: circle (default), square, rounded
 
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
