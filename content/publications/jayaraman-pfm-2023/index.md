@@ -35,10 +35,10 @@ abstract: Testing effector knockout strains of the *Pseudomonas syringae* pv. ac
   effectors, covering a few functions critical to disease.
 summary: Effector knockout and knock-in assays in virulent Psa3 and avirulent Pfm identified a number of redundantly required effectors that converge on the RIN4 plant immunity hub.
 tags:
+- 'Effector requirements'
 - 'Pseudomonas syringae pv. actinidiae'
 - 'Pseudomonas syringae pv. actinidifoliorum'
 - 'Type III effectors'
-- 'Effector requirements'
 - 'Kiwifruit'
 
 image:

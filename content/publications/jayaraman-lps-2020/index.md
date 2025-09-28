@@ -40,5 +40,4 @@ summary: The TET operon determines the variability of LPS profiles in Psa, which
 tags:
 - Pseudomonas syringae pv. actinidiae
 - Pseudomonas syringae pv. actinidifoliorum
-
 ---
