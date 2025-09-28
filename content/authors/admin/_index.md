@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Lauren Hemara
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Lauren
+last_name: Hemara
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🥝
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,147 +23,160 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Toronto Scarborough
+    url: https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/hemara.nz
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.co.nz/citations?user=--BGP8oAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-0316-3545
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/laurenhemara/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Niche adaptation
+  - Experimental evolution
+  - Plant-microbe interactions
+  - Comparative genomics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  - area: PhD in Biological Sciences
+    institution: University of Auckland
+    year: 2025
+    location: Auckland, New Zealand
+    logo: /logo/uoa_logo_shield.svg
+    date_start: '2021-03-01'
+    date_end: '2025-01-01'
+    summary: |2-
+      - [Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*](https://researchspace.auckland.ac.nz/items/409ac923-e000-4531-86e8-eccafdd20814).
+      - Awarded a University of Auckland Doctoral Scholarship.   
+  - area: MSc in Biological Sciences
+    institution: University of Auckland
+    year: 2020
+    location: Auckland, New Zealand
+    date_start: '2019-03-01'
+    date_end: '2020-05-01'
+    summary: |2-
+      - [Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*](https://researchspace.auckland.ac.nz/items/7d7707d0-5333-43c1-9134-2f3ca9208b80).
+      - Awarded a Zespri Innovation Scholarship.
+  - area: PGDipSci in Biological Sciences
+    institution: University of Auckland
+    year: 2019
+    location: Auckland, New Zealand
+    date_start: '2018-03-01'
+    date_end: '2018-12-01'  
+    summary: |2-
+      - Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+      - Awarded the Janet Bain Mackay Memorial Prize.
+  - area: BSc in Biological Sciences
+    institution: University of Auckland
+    year: 2018
+    location: Auckland, New Zealand
+    date_start: '2015-03-01'
+    date_end: '2017-12-01' 
+    summary: |2-
+      - First in Course for BIOSCI 321 - Plant Pathology.
+      - Awarded a Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
+  - position: Postdoctoral Fellow
+    company_name: University of Toronto Scarborough
+    company_url: 'https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/'
+    company_logo: uoft_shield_crop
+    location: Toronto, Canada
+    date_start : '2024-11-25'
     date_end: ''
+    summary: Evaluation and evolution of elite agricultural bioinoculants across production landscapes, as part of the [Genome Canada-funded BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
+  - position: BIOSCI 220 Graduate Teaching Assistant
+    company_name: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_end: '2023-11-15'
+    date_start: '2022-03-01'
+    summary: 'Graduate Teaching Assistant responsible for delivering online and in-person labs for BIOSCI 220: Quantitative Biology (4 semesters).'
+  - position: BIOSCI 324 Graduate Teaching Assistant
+    company_name: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_end: '2023-07-01'
+    date_start: '2023-03-01'
+    summary: 'Graduate Teaching Assistant responsible for lab design and delivery for BIOSCI 324: Plant Pathology and Symbiosis (1 semester).'
+  - position: BIOSCI 220 Teaching Assistant
+    company_name: University of Auckland
+    company_logo: uoa_logo_shield
+    location: Auckland, New Zealand
+    date_start: '2021-07-01'
+    date_end: '2021-11-01'
+    summary: 'Teaching Assistant supporting BIOSCI 220: Quantitative Biology labs (1 semester).'
+    company_name: Waikato Regional Council
+    location: Hamilton, New Zealand
+    date_start: '2020-11-01'
+    date_end: '2021-02-01'
+    summary: 'Responsible for managing content across internal and external websites, including the launch of the [environmental data hub](https://www.waikatoregion.govt.nz/environment/envirohub/).'
+  - position: Internship
+    company_name: Plant & Food Research
+    location: Auckland, New Zealand
+    date_start: '2018-11-01'
+    date_end: '2019-03-01'
+    summary: 'Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.'
+  - position: Internship
+    company_name: Plant & Food Research
+    location: Auckland, New Zealand
+    date_start: '2017-11-01'
+    date_end: '2018-03-01'
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+      - Genome biosurveillance of Psa3 in New Zealand kiwifruit orchards.
+      - Awarded a Ngā Toa Ngaki Kai scholarship.
+  - position: Internship
+    company_name: Waikato Regional Council
+    location: Hamilton, New Zealand
+    date_start: '2016-11-01'
+    date_end: '2017-02-01'
+    summary: 'Responsible for managing content across internal and external websites, including the migration of the flagship [Waikato Regional Council](https://www.waikatoregion.govt.nz/) and [Envirolink](https://www.envirolink.govt.nz/) websites to a new content management system.'
+  - position: Internship
+    company_name: Waikato Regional Council
+    location: Hamilton, New Zealand
+    date_start: '2015-11-01'
+    date_end: '2016-02-01'
+    summary: 'Responsible for managing content across internal and external websites.'
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+#awards:
+#  - title: Best Paper Award
+#    url: https://neurips.cc/
+#    date: '2022-12-01'
+#    awarder: NeurIPS
+#    icon: hero/trophy
+#    summary: |
+#      Awarded for groundbreaking work on efficient training of large models.
+#  - title: AI Innovation Grant
+#    url: https://www.nsf.gov/
+#    date: '2021-06-15'
+ #   awarder: National Science Foundation
+ #   icon: hero/currency-dollar
+ #   summary: |
+ #     $500,000 grant for research in ethical AI #development.
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+## Kia ora!
+
+I'm a Postdoctoral Fellow in the [Microbiome Manipulation Lab at The University of Toronto Scarborough](https://www.utsc.utoronto.ca/labs/microbiomemanipulationlab/).
+
+ **I'm passionate about understanding microbial evolution and niche adaptation, from laboratory environments to the field — and back again!**
+
+ My current research seeks to examine tradeoffs between the production, storage, and field application of microbial bioinoculants for agriculture, as part of the Genome Canada-funded [BENEFIT project](https://www.queensu.ca/microbes-for-agriculture/).
+ 
+ My doctoral research used the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during incursions. Using this horticulturally-relevant pathosystem, we examined effector requirements, redundancies, and repertoire refinement across susceptible, tolerant, and resistant hosts.
