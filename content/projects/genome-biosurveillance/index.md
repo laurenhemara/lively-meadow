@@ -1,13 +1,13 @@
 ---
-title: Psa3 genome biosurveillance
+title: Genome biosurveillance
 date: 2024-01-01
 image:
   caption: ''
   focal_point: 'Smart'
   preview_only: false
-
+summmary: Genome biosurveillance of New Zealand’s Psa3 population over a 12-year period.
 ---
-Genome biosurveillance of New Zealand’s Psa3 population has provided insights into how plant pathogens adapt over time and highlights the importance of carefully managing recurrent pathogen infections. In particular, we have observed effector loss on both susceptible and resistant kiwifruit vines. Whether they occur in monocultures, diverse germplasm collections, or escaped wild vines, these repeated exposure events offer the pathogen an opportunity to break down resistance.
+Genome biosurveillance of New Zealand’s Psa3 population has provided insights into how plant pathogens adapt over time. In particular, we have observed effector loss on both susceptible and resistant kiwifruit vines, which in some cases allows a partial escape from host resistance.
 
 - **Patterson, Hemara et al. (2025).** Diverse Pseudomonas species engage in beneficial and suppressive interactions with the kiwifruit pathogen Psa across Actinidia germplasm.
  *bioRxiv*.
