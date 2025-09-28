@@ -4,7 +4,7 @@ date: 2024-01-01
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 summmary: Identifying Psa3 effectors required and recognised across kiwifruit hosts.
 ---
 
