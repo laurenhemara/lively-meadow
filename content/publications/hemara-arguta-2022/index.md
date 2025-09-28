@@ -47,10 +47,10 @@ abstract: A pandemic isolate of *Pseudomonas syringae* pv. actinidiae biovar 3 (
   into future kiwifruit cultivars.
 summary: Four  avirulence effectors contribute to Psa3 recognition in resistant kiwiberry, identified through genome biosurveillance and effector knockout screening.
 tags:
+- Effector recognition
 - Pseudomonas syringae pv. actinidiae
 - Genome biosurveillance
 - Type III effectors
-- Effector recognition
 - Kiwifruit
 links:
   - type: poster
