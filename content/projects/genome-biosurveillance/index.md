@@ -1,5 +1,5 @@
 ---
-title: Genome biosurveillance
+title: On-orchard genome biosurveillance
 date: 2024-01-01
 image:
   caption: ''

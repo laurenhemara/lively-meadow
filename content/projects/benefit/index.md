@@ -1,5 +1,5 @@
 ---
-title: Evaluation and evolution of agricultural bioinoculants.
+title: Evaluation & evolution of agricultural bioinoculants
 date: 2024-01-01
 image:
   caption: ''
