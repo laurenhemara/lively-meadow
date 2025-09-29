@@ -40,6 +40,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
+      show_read_time: false
       columns: 2
   - block: collection
     content:
