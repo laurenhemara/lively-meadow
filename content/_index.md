@@ -9,7 +9,7 @@ design:
   spacing: '1rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
